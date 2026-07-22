@@ -42,7 +42,7 @@ This project analyzes **38,576 loan applications** from a US-based lending datas
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/<Rahul1234-NITS>/bank-loan-analysis.git
+   git clone https://github.com/Rahul1234-NITS/bank-loan-analysis.git
    cd bank-loan-analysis
    ```
 2. Install dependencies
