@@ -54,7 +54,7 @@ This project analyzes **38,576 loan applications** from a US-based lending datas
    jupyter notebook Bank_loan_analysis.ipynb
    ```
 
-## 👤 Author
+
 
 ## 👤 Author
 
